@@ -1,0 +1,39 @@
+{
+    "bot": {
+        "token": "NDcyNzg4NjQyMzk4NDcwMTQ1.DnfnhQ.YfWYZJtu4yo6JIgianFVJg8s-Bg",
+        "owner": ["319427991824367617"],
+        "name": "TurkBot",
+        "year": "2018",
+        "prefix": "t!",
+        "version": "v1.0.1"
+    },
+    "customEmojis": {
+        "basarili": "<:basarili:361601989056004096>",
+        "basarisiz": "<:basarisiz:361602032143958018>"
+    },
+    "dbotSites": {
+        "botspwToken": "",
+        "DBLToken": ""
+    },
+    "localSite": {
+        "secret": "theSuperSecret",
+        "chekInGuildRoute": "http://localhost:1234/checkInGuild"
+    },
+    "hooks": {
+        "guildLogHook": {
+            "id": "",
+            "token": ""
+        },
+        "bugHook": {
+            "id": "",
+            "token": ""
+        },
+        "suggestHook": {
+            "id": "",
+            "token": ""
+        }
+    },
+    "checkerBoat": {
+        "token": ""
+    }
+}
